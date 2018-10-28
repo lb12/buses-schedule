@@ -1,0 +1,8 @@
+{
+  "name": "buses_schedule",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "d4de7dc0"
+}
